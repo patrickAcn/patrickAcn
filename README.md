@@ -21,7 +21,7 @@
 
 - 🌱 I’m planning on getting my AZ-900 Certification this week!
 
-- 🎉 I participated in the 2022 [Accenture Student Leadership Conference](https://accenture-ph.talkpush.com/site/campaigns/Z2lkOi8vYXN0cmFldXMvQ2FtcGFpZ246OlJlY29yZC8yMTc2)!
+- 🎉 I participated in the 2023 [Accenture Student Leadership Conference](https://accenture-ph.talkpush.com/site/campaigns/Z2lkOi8vYXN0cmFldXMvQ2FtcGFpZ246OlJlY29yZC8yMTc2)!
 
 - 💻 I'm the Front-End and UI/UX dev for our thesis project, the <strong>MyDBuddy Chat Bot</strong> which earned a Silver Best Thesis Award. The project is fully documented in [this repo](https://github.com/pangilinan-patrick/MyDCampus-Channel-Web).
 
